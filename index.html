@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      body {
-        background-color: magenta;
-        color: blue;
-        font-size: 7em;
-        font-family: "Comic Sans MS", "Comic Sans", cursive;
-      }
-      
-      a { color: cyan; }
-      a.visited { color: cyan; }
-    </style>
+  </head>
   <body>
-    <a href="https://h3liu.ml/">Welcome to my website! This is the greatest site ever. This link will bring you to the worst site ever.</a>
+    <script>
+      var rick_roll = [
+        "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "https://h3liu.ml"
+      ];
+      
+      let r = Math.floor(Math.random() * rick_roll.length);
+      location.replace(rick_roll[r]);
+    </script>
   </body>
 </html>
