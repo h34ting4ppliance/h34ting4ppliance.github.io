@@ -1,0 +1,7 @@
+**HAI THERE!!** My name is Matthilde, I am 16 years old and I have the big gay!
+
+I made this blog so I can share my hobby which is **COMPUTER!!**
+
+Have sum tea and read sum of my awesome blogs!!! OwO
+
+### [Creation of blog!](b/creation.html)
