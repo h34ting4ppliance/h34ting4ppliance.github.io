@@ -1,0 +1,48 @@
+# Welcome to my first actual BLOG!
+
+**WELCOME TO MY NEW BLOG1!!** Today I will talk of how I made this awesome site because I want to talk about **COMPUTERS!!**
+
+It took me hours to make it!!! So I hope you will like this blog!
+
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+![UwU](https://i.h3liu.ml/I1W8P.gif)
+
+I made it.
